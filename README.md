@@ -10,7 +10,7 @@
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/si-educational-nextjs-main.git
+git clone https://github.com/themewagon/si-educational-nextjs.git
 ```
 2. Install Dependencies
 ```
@@ -28,9 +28,9 @@ pnpm dev
 bun dev
 ```
 
-Author 
+## Author 
 ```
-Design and code is completely written by [Get next.js Templates] (https://getnextjstemplates.com/)design and development team.  
+Design and code is completely written by Get next.js Templates design and development team.  
 ```
 
 ## License
