@@ -4,6 +4,7 @@ import { useState } from 'react'
 import { CourseData } from '@/app/api/data'
 import { Icon } from '@iconify/react/dist/iconify.js'
 import Image from 'next/image'
+import { Name } from '@/types/name'
 
 const NamesList = () => {
   const [selectedButton, setSelectedButton] = useState<
